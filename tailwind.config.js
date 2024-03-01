@@ -9,6 +9,7 @@ module.exports = {
       'custom-white': 'hsl(0, 0%, 100%)',
       'custom-light-pink': 'hsl(275, 100%, 97%)',
       'custom-greyish-purple': 'hsl(292, 16%, 49%)',
+      'custom-greyish-purple-2': 'hsl(292, 16%, 95%)',
       'custom-dark-purple': 'hsl(292, 42%, 14%)',
     },
     fontFamily: {
