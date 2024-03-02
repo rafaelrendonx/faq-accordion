@@ -21,7 +21,7 @@ function App() {
           className='h-full w-full object-cover'
         />
       </div>
-      <div className="bg-custom-light-pink h-[36rem] desktop:h-[42rem]">
+      <div className="bg-custom-light-pink h-[42rem]">
       </div>
 
       <div className='absolute top-[7.65rem] desktop:top-36 desktop:rounded-[1.25rem] desktop:ml-[26.3rem] desktop:mr-[26rem] desktop:p-[0.05rem] bg-custom-white m-5 rounded-lg'>
